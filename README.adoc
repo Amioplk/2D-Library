@@ -7,8 +7,6 @@ A Java project developed by students during the https://github.com/oliviercaillo
 
 The code is hereby published under the MIT License, with their permission.
 
-[sub=+macros]
-----
 +++<u>Plan détaillé des différentes livraisons</u>+++ :
 
 Voici les objectifs à atteindre pour la *deuxième livraison* :
@@ -53,4 +51,4 @@ Voici les objectifs à atteindre pour la *deuxième livraison* :
   
   * Enfin s'il nous reste du temps nous souhaitons que le livre recherché par l'utilisateur se mette en surbrillance s'il est présent dans la bibliothèque et développer un système de QR code qui permettra  à l'utilisateur d'avoir accèss à un résumé du livre.
   
-----
+
