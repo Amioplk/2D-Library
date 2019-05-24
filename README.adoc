@@ -7,7 +7,7 @@ A Java project developed by students during the https://github.com/oliviercaillo
 
 The code is hereby published under the MIT License, with their permission.
 
-<u>Plan détaillé des différentes livraisons</u> :
++++<u>Plan détaillé des différentes livraisons</u>+++ :
 
 Voici les objectifs à atteindre pour la *deuxième livraison* :
 
@@ -33,7 +33,7 @@ Voici les objectifs à atteindre pour la *deuxième livraison* :
  
   * Pour finir, dans un soucis d'ergonomie la bibliothèque se rechargera à chaque recherche. 
  
- Tâches à réaliser pour la *troisième livraison*:
+ Tâches à réaliser pour la *troisième livraison* :
  
   * File1 et File2. Ces deux tâches fonctionnent déjà mais nous voulons les améliorer. Pour file1  nous voulons qu'il soit possible d'afficher la première page de couverture des livres si elle est fournie. Puis pour file2 nous voulons qu'il soit possible de déterminer l'épaisseur de chaque livre au lieu de fournir une hauteur et largeur pour avoir une meilleure précision et remplir de façon plus efficace chaque étagère.
   
@@ -41,7 +41,7 @@ Voici les objectifs à atteindre pour la *deuxième livraison* :
   
   * Pour finir chaque livre se verra transformé en hyperlien qui dirigera l'utilisateur sur une recherche google associée au titre du livre.
  
- Tâches à réaliser pour la *quatrième livraison*:
+ Tâches à réaliser pour la *quatrième livraison* :
  
   * SearchCongress: Chaque utilisateur pourra faire une recherche sur le site de la bibliothèque du Congrès après avoir rentré ses critères de recherche.
   
